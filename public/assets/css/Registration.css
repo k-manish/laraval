@@ -1,0 +1,11 @@
+.primediv{
+    margin-top: 70px;
+    border:2px dashed rgb(170,150,150);
+    background-color: rgb(175,122,195);
+}
+#btn_sub{
+    width: 150px;
+}
+body{
+    background-color: rgb(234, 237, 237);
+}
